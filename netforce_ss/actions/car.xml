@@ -1,0 +1,6 @@
+<action>
+    <field name="string">Car ride</field>
+    <field name="view_cls">multi_view</field>
+    <field name="model">car</field>
+    <field name="menu">ss_menu</field>
+</action>

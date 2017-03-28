@@ -1,0 +1,8 @@
+<action>
+<!--<field name="round">round</field>-->
+    <field name="string">Round</field>
+    <field name="view_cls">multi_view</field>
+    <field name="model">round</field>
+    <!--<field name="tabs">[["All",[]],["Customers",[["customer","=",true]]],["Suppliers",[["supplier","=",true]]],["Archived",[["active","=",false]]]]</field>-->
+    <field name="menu">ss_menu</field>
+</action>

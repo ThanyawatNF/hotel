@@ -1,0 +1,5 @@
+<inherit inherit="main_menu">
+    <item string="Contacts" position="after">
+        <item string="Bus ticket" action="round"/>
+    </item>
+</inherit>

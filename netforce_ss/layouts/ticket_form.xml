@@ -1,0 +1,33 @@
+<form model="ticket">
+<head>
+    <button string="Print report" icon="print" action="report_template_form"/>
+    <button string="Copy" icon="copy" method="copy"/>
+</head>
+    <separator string="General"/>
+
+    <field name="fname" span="5"/>
+    <field name="tell" span="5"/>
+    <field name="coding" span="5"/>
+    <field name="email" span="5"/>
+
+    <separator string="Ticket"/>
+    <field name="from_id" span="3"/>
+    <field name="to_id" span="3" onchange="pricing"/>
+    <field name="time_id" span="4"/>
+    <field name="seat_id" span="3"/>
+    <field name="price" span="3"/>
+    <!--<field name="tim" span="4"/>-->
+
+
+	<separator string="Ticket"/>-->
+	<field name="lines">
+        <list>
+            <field name="tick_from"/>
+            <field name="tick_to"/>
+            <field name="tick_time"/>
+            <field name="tick_seat"/>
+            <field name="tick_price"/>
+        </list>
+    </field>
+
+</form>

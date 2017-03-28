@@ -1,0 +1,18 @@
+<form model="round">
+<!--<field name="date"/>-->
+    <separator string="Round"/>
+    <field name="day" onchange="senddata"/>
+    <!--<field name="texting"/>-->
+    <!--<field name="t" />-->
+    <!--<field name="day" onchange="senddata"/>-->
+    <!--<field name="tim"/>-->
+    <!--<field name="d"/>-->
+    <!--<field name="t"/>-->
+    <!--<field name="name"/>-->
+    <!--<field name="code"/>-->
+    <!--<field name="parent_id"/>-->
+    <!--<field name="description"/>-->
+    <!--<related>-->
+    <!--<field name="comments"/>-->
+    <!--</related>-->
+</form>

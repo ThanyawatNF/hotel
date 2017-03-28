@@ -1,0 +1,4 @@
+<form model="seat">
+    <separator string="Seat"/>
+    <field name="seat"/>
+</form>

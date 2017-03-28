@@ -1,0 +1,23 @@
+<menu string="Bus ticket">
+    <item string="Dashboard" action="contact_board"/>
+    <item string="Contacts">
+        <item string="Contacts" action="contact"/>
+        <item string="Customers" action="contact" action_options="tab_no=1"/>
+        <item string="Suppliers" action="contact" action_options="tab_no=2"/>
+    </item>
+    <item string="Ticket" action="ticket"/>
+    <!--<item string="Ticket1" action="ticket1"/>-->
+    <item string="Settings">
+    <!--<item string="Contact Categories" action="contact_categ"/>-->
+    <!--<item string="Contact Groups" action="contact_group"/>-->
+    <!--<item string="Relation Types" action="contact_rel_type"/>-->
+    <!--<item string="Regions" action="region"/>-->
+    <!--<item string="Industries" action="industry"/>-->
+    <!--<item string="Business Areas" action="business_area"/>-->
+    <!--<item string="Fleet Sizes" action="fleet_size"/>-->
+        <item string="Round" action="round"/>
+        <item string="Seat" action="seat"/>
+        <item string="Province" action="province"/>
+        <item string="Car ride" action="car"/>
+    </item>
+</menu>

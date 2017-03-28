@@ -1,0 +1,5 @@
+setup.py
+netforce_ss.egg-info/PKG-INFO
+netforce_ss.egg-info/SOURCES.txt
+netforce_ss.egg-info/dependency_links.txt
+netforce_ss.egg-info/top_level.txt

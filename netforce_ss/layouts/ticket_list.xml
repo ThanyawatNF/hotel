@@ -1,0 +1,10 @@
+<list model="ticket">
+    <field name="fname"/>
+    <field name="coding"/>
+    <field name="tell"/>
+    <field name="from_id"/>
+    <field name="to_id"/>
+    <field name="time_id"/>
+    <field name="seat_id"/>
+    <field name="price"/>
+</list>

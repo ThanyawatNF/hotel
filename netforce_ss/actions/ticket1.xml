@@ -1,0 +1,6 @@
+<action model="ticket">
+    <field name="string">Ticket</field>
+    <field name="view_cls">multi_view</field>
+    <field name="model">ticket</field>
+    <field name="menu">ss_menu</field>
+</action>

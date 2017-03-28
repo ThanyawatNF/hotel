@@ -1,0 +1,11 @@
+<form model="province">
+    <separator string="Province"/>
+    <group span="5">
+    <field name="province" span="10"/>
+    <field name="lines">
+        <list>
+            <field name="province_place"/>
+        </list>
+    </field>
+    </group>
+</form>

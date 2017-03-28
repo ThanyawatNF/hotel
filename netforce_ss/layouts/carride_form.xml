@@ -1,0 +1,21 @@
+<form model ="car">
+    <separator string="Car ride"/>
+    <field name="from_id" span="5" onchange="Place"/>
+    <field name="to_id" span="5"/>
+    <field name="from_place" span="5"/>
+    <field name="pricing" span="5"/>
+	<separator string="test line"/>
+    <!--<field name="lines">-->
+    <!--<field name="from_id" span="3"/>-->
+    <!--<field name="to_id" span="3" onchange="pricing"/>-->
+    <!--<field name="pricing" span="4"/>-->
+    <!---->
+    <!--</field>-->
+    <!--<field name="roundd" span="5"/>-->
+    <!--<separator string="Date : Time"/>-->
+    <!--<field name="lines" span="5">-->
+    <!--<list>-->
+    <!--<field name="day"/>-->
+    <!--</list>-->
+    <!--</field>-->
+</form>

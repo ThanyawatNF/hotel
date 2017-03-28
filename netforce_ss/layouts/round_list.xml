@@ -1,0 +1,10 @@
+<list model="round">
+<!--<field name="date"/>-->
+    <field name="day"/>
+    <!--<field name="tim"/>-->
+    <!--<field name="d"/>-->
+    <!--<field name="t"/>-->
+    <!--<field name="name"/>-->
+    <!--<field name="code"/>-->
+    <!--<field name="parent_id"/>-->
+</list>
